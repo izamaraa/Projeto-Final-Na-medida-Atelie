@@ -1,3 +1,4 @@
+# Na Medida Ateliê
 Projeto final desenvolvido como Capstone do M3 no curso de Desenvolvimento Full Stack da Kenzie Academy Brasil. 
 Desenvolvido por: Andryws Gortz, Erick Marchetti, Fidel Marques, Hitalo Santos, Izamara Agata e Raquel Carvalho.
 
